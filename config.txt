@@ -1,0 +1,8 @@
+address=Miguel Teles junior 129
+openweather-key=84ee24bcd5d71c885e690337672bb521
+covidkey=man1BvYsT+OAcPyjyhslmw==DreLZ2M4XiHtwnn7
+urlcovid=https://api.api-ninjas.com/v1/covid19?country=
+country=brazil
+latlong-email=marcel.ghisi@gmail.com
+latlong-password=M6a6r2c9
+mailgun-key=17ae5b279330d94636927d2705826677-e5475b88-d70a12ab
